@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">LDV9_LAB3</string>
+
+
+    <string name="Имя">Введите имя...</string>
+    <string name="Мужской">Мужcкой</string>
+    <string name="Женский">Женский</string>
+    <string name="Пол">Выберите ваш пол</string>
+    <string name="Язык">Какой язык программирования вам нравится?</string>
+    <string name="java">Java</string>
+    <string name="python">Python</string>
+    <string name="Cplusplus">C++</string>
+    <string name="Время_Года">Ваше любимое время года</string>
+    <string name="Весна">Весна</string>
+    <string name="Лето">Лето</string>
+    <string name="Осень">Осень</string>
+    <string name="Зима">Зима</string>
+    <string name="Спасибо">Спасибо!</string>
+    <string name="Результаты">Ваши результаты</string>
+    <string name="Назад">Назад</string>
+    <string name="Выход">Выход</string>
+    <string name="Продолжить">Продолжить</string>
+    <string name="Здравствуйте">Здравствуйте!</string>
+    <string name="Ввод_Имя">Перед тем как продолжить, введите имя</string>
+    <string name="Ваше_имя">Вас зовут:</string>
+    <string name="Ваш_пол">Ваш пол:</string>
+    <string name="Ваш_язык">Выбранный язык программирования:</string>
+    <string name="Ваш_сезон">Ваше время года:</string>
+
+    <string-array name="seasons_arrays">
+        <item>Зима</item>
+        <item>Весна</item>
+        <item>Лето</item>
+        <item>Осень</item>
+    </string-array>
+</resources>
